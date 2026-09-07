@@ -1,5 +1,9 @@
 # FAT12 LAB – Báo cáo
 
+Đề bài: [FAT12 Lab](README_STUDENT.txt)
+
+---
+
 ## 1. Chương trình
 - File nguồn: `fat.c` (C chuẩn, chỉ mở image ở chế độ `"rb"` – không ghi).
 - Biên dịch: `gcc -O2 -o fat.exe fat.c` (MinGW/Linux) hoặc `cl fat.c /Fe:fat.exe` (MSVC).

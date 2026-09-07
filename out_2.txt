@@ -1,0 +1,105 @@
+=== FAT12 - ENTRY CUA CLUSTER 2..101 ===
+FAT[0] = 0xFF0 (media)   FAT[1] = 0xFFF
+
+Cluster  Value   Meaning
+-------  -----   -------
+      2  0x003   NEXT -> 3
+      3  0xFFF   EOF
+      4  0x000   FREE
+      5  0xFFF   EOF
+      6  0x000   FREE
+      7  0x009   NEXT -> 9
+      8  0x000   FREE
+      9  0x00C   NEXT -> 12
+     10  0x000   FREE
+     11  0x000   FREE
+     12  0x00D   NEXT -> 13
+     13  0x012   NEXT -> 18
+     14  0x000   FREE
+     15  0x000   FREE
+     16  0x000   FREE
+     17  0x000   FREE
+     18  0xFFF   EOF
+     19  0x000   FREE
+     20  0xFFF   EOF
+     21  0x000   FREE
+     22  0x000   FREE
+     23  0x000   FREE
+     24  0x000   FREE
+     25  0x01A   NEXT -> 26
+     26  0xFFF   EOF
+     27  0x000   FREE
+     28  0x000   FREE
+     29  0x000   FREE
+     30  0xFF7   BAD
+     31  0x000   FREE
+     32  0x000   FREE
+     33  0x000   FREE
+     34  0x000   FREE
+     35  0x000   FREE
+     36  0x000   FREE
+     37  0x000   FREE
+     38  0x000   FREE
+     39  0x000   FREE
+     40  0x000   FREE
+     41  0x000   FREE
+     42  0x000   FREE
+     43  0x000   FREE
+     44  0x000   FREE
+     45  0x000   FREE
+     46  0x000   FREE
+     47  0x000   FREE
+     48  0x000   FREE
+     49  0x000   FREE
+     50  0x000   FREE
+     51  0x000   FREE
+     52  0x000   FREE
+     53  0x000   FREE
+     54  0x000   FREE
+     55  0x000   FREE
+     56  0x000   FREE
+     57  0x000   FREE
+     58  0x000   FREE
+     59  0x000   FREE
+     60  0x000   FREE
+     61  0x000   FREE
+     62  0x000   FREE
+     63  0x000   FREE
+     64  0x000   FREE
+     65  0x000   FREE
+     66  0x000   FREE
+     67  0x000   FREE
+     68  0x000   FREE
+     69  0x000   FREE
+     70  0x000   FREE
+     71  0x000   FREE
+     72  0x000   FREE
+     73  0x000   FREE
+     74  0x000   FREE
+     75  0x000   FREE
+     76  0x000   FREE
+     77  0x000   FREE
+     78  0x000   FREE
+     79  0x000   FREE
+     80  0x000   FREE
+     81  0x000   FREE
+     82  0x000   FREE
+     83  0x000   FREE
+     84  0x000   FREE
+     85  0x000   FREE
+     86  0x000   FREE
+     87  0x000   FREE
+     88  0x000   FREE
+     89  0x000   FREE
+     90  0x000   FREE
+     91  0x000   FREE
+     92  0x000   FREE
+     93  0x000   FREE
+     94  0x000   FREE
+     95  0x000   FREE
+     96  0x000   FREE
+     97  0x000   FREE
+     98  0x000   FREE
+     99  0x000   FREE
+    100  0x000   FREE
+    101  0x000   FREE

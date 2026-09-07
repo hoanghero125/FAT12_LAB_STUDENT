@@ -1,0 +1,26 @@
+=== BOOT SECTOR / BPB ===
+OEM ID                : MSDOS5.0
+Bytes per sector      : 512
+Sectors per cluster   : 1
+Reserved sectors      : 1
+Number of FATs        : 2
+Root entries          : 224
+Total sectors (16)    : 2880
+Media descriptor      : 0xF0
+Sectors per FAT       : 9
+Sectors per track     : 18
+Number of heads       : 2
+Hidden sectors        : 0
+Total sectors (32)    : 0
+Drive number          : 0x00
+Boot signature        : 0x29
+Volume ID             : 0x1234ABCD
+Volume label          : "FATLABPUB  "
+File system type      : "FAT12   "
+--- Gia tri suy ra ---
+Total sectors         : 2880
+Disk size             : 1474560 bytes (1440.00 KB)
+FAT #1 start sector   : 1
+ROOT dir start sector : 19 (14 sectors)
+DATA start sector     : 33
+Data clusters         : 2847 (cluster 2..2848)

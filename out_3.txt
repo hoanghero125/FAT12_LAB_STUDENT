@@ -1,0 +1,14 @@
+=== ROOT DIRECTORY (Volume label: FATLABPUB  ) ===
+
+Name          Attr         Size  Date       Time      1st cluster
+------------  -----  ----------  ---------- --------  -----------
+FATLABPU      VOL       <LABEL>  00/00/1980 00:00:00
+README.TXT    ----A         900  00/00/1980 00:00:00  2
+A.TXT         ----A          23  00/00/1980 00:00:00  5
+BIGFILE.BIN   ----A        2500  00/00/1980 00:00:00  7
+EMPTY.TXT     ----A           0  00/00/1980 00:00:00  0
+HELLO.C       ----A         700  00/00/1980 00:00:00  25
+DATA          ---D-       <DIR>  00/00/1980 00:00:00  20
+
+         5 File(s)  4123 bytes
+         1 Dir(s)
